@@ -5,6 +5,7 @@
 //              table of contents in one click.
 // @include http://www.instapaper.com/go/*
 // @include http://www.instapaper.com/text*
+// @version 1.1
 // ==/UserScript==
 
 /*
